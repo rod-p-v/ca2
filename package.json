@@ -8,11 +8,14 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~39.0.2",
+    "expo": "^39.0.3",
+    "expo-location": "^9.0.1",
     "expo-status-bar": "~1.0.2",
+    "moment-parseplus": "^1.1.6",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
+    "react-native-geolocation-service": "^5.0.0",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
